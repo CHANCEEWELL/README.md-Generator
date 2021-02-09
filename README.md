@@ -31,13 +31,15 @@ Node modules / packages to Invoke the app in the terminal...
 + node index.js
 
 
-Screenshare link to demo/walkthrough in the command line that populates w/ questions to create the readme file. ----> 
+Screenshare link to demo/walkthrough in the command line that populates w/ questions to create the readme file. 
+
 README Generator
 Check out this video: https://share.vidyard.com/watch/3es2Mu2qWCBoe7y7acmWMH?
 
 
 
-Screenshare link to prove Readme file was created.. ---->
+Screenshare link to prove Readme file was created.. 
+
 Proof of README Generation
 Check out this video: https://share.vidyard.com/watch/SjpVWafkEkeRqnRZDcHC8Y?
 
